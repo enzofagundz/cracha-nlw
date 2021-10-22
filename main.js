@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   linkedin: 'enzofagundz',
   medium: '@enzofagundz',
   facebook: 'enzofagundz',
-  mailto:: 'enzo.fagundes014@gmail.com'
+  mailto: 'enzo.fagundes014@gmail.com'
 }
 
 function changeSocialMediaLinks() {

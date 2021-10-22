@@ -2,8 +2,7 @@ const LinksSocialMedia = {
   github: 'enzofagundz',
   linkedin: 'enzofagundz',
   medium: '@enzofagundz',
-  facebook: 'enzofagundz',
-  bahance: 'enzofagundz'
+  facebook: 'enzofagundz'
 }
 
 function changeSocialMediaLinks() {

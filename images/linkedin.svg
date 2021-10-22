@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>Novo Projeto</title>
+	<defs>
+		<image  width="48" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAQMAAABtzGvEAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAA1JREFUeJxjYBgF1AQAAVAAAevmKMkAAAAASUVORK5CYII="/>
+		<image  width="48" height="48" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAAXNSR0IB2cksfwAAANtQTFRFMjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MzM4MjI4MjI4MjI4MjI4AAAAMjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI3MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MDA3MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4MjI4W8+1dwAAAEl0Uk5T//LJw+njSAIAHsucBQB3qQqD8WoXFD/g/PrHwvXE7/28cGOI6xWj1ptTAQl+94bXCzUYAC/oQGYIqKG9AJC72onc1dTB5vTt9uzm0dAAAADCSURBVHic7dLXDoJAEAXQVcC+FkRRUcBeEMWOomsv//9FDvquuw8mmOx94GaSOQmTLEI8PH+aUFgQWfalSDQWTzCAZApjnGYAmSyAHAOQ80qhqDIAVJLUMsu+XNE0TUTVGpRumPVGs/UZCG24oYO6/im9/gC+1tCmBQp+Z0QBxo6/6UymM6j5ghIsVWSvoN01JdjA7EFvd5SAwLz3f+3wHbyONmE+BgacrF+Ds0sL9Ash5IpuHtQd5gc0YXruPDwByhP9Fx52XKjREQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<path id="Forma 2" class="shp0" d="M23.5 37C16.59 37 11 31.41 11 24.5C11 17.59 16.59 12 23.5 12C30.41 12 36 17.59 36 24.5C36 31.41 30.41 37 23.5 37Z" />
+	<use id="linkedin" href="#img2" x="0" y="0" />
+</svg>
